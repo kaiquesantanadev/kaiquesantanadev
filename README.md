@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Kaique+Santana.;Tenho+18+anos.;Atualmente,+estou+graduando+em:;Desenvolvimento+de+Softwares+Multiplataforma.;+Moro+em+São+Paulo,+Brasil.+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Kaique+Santana.;Tenho+18+anos.;Atualmente,+estou+graduando+em:;Desenvolvimento+de+Softwares+Multiplataforma.;Sou+Técnico+em+Rede+de+Computadores.;+Moro+em+São+Paulo,+Brasil.+:%29)](https://git.io/typing-svg)
 
 
 - 🖥️ Atualmente não trabalho, estou aprimorando minhas habilidades em busca do meu primeiro emprego na área de back-end.
