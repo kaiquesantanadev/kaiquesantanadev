@@ -16,7 +16,7 @@
 #### Atualmente estou estudando:
 <div style="display: inline_block;">
   <img align="center" alt="Imagem-MySQL" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Imagem-GIT" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+  <img align="center" alt="Imagem-Docker" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg">
   <img align="center" alt="Imagem-NodeJS" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Imagem-AWS" height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/free-aws-1869025-1583149.png?f=avif&w=256">
 </div>
