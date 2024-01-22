@@ -18,6 +18,7 @@
 <div style="display: inline_block;">
   <img align="center" alt="Imagem-NodeJS" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Imagem-AWS" height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/free-aws-1869025-1583149.png?f=avif&w=256">
+  <img align="center" alt="Imagem-NodeJS" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
 </div>
 
 <div align="center">  
