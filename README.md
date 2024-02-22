@@ -21,6 +21,10 @@
   <img align="center" alt="Imagem-VSCODE" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
 </div>
 
+#### Minhas certificações:
+
+- ☁️ [AWS Certified Cloud Practitioner CLF-02](https://www.credly.com/earner/earned/badge/c20fd54b-02de-4116-ad80-506c5b732ced)
+
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=kaiquesantanadev&show_icons=true&count_private=true&hide_border=true&title_color=1E90FF&icon_color=1E90FF&text_color=fff&bg_color=0d1117" alt="Kaique Santana github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiquesantanadev&layout=compact&hide_border=true&title_color=1E90FF&text_color=fff&bg_color=0d1117" />
