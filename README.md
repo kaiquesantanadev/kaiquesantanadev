@@ -14,6 +14,7 @@
   <img align="center" alt="Imagem-NodeJS" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Imagem-React" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
   <img align="center" alt="Imagem-Vagrant" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/vagrant/vagrant-original.svg">
+  <img align="center" alt="Imagem-BashScript" height="40" width="50" src=" https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg">
   <img align="center" alt="Imagem-Linux" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
   <img align="center" alt="Imagem-AWS" height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/free-aws-1869025-1583149.png?f=avif&w=256">
   <img align="center" alt="Imagem-MongoDB" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg">
