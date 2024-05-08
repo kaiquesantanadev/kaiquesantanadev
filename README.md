@@ -3,8 +3,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Kaique+Santana.;Tenho+19+anos.;Atualmente,+estou+graduando+em:;Desenvolvimento+de+Softwares+Multiplataforma.;Sou+Técnico+em+Redes+de+Computadores.;+Moro+em+São+Paulo,+Brasil.+:%29)](https://git.io/typing-svg)
 
 
-- 🖥️ Buscando aprimorar minhas habilidades em programação e à procura do meu primeiro emprego na área de back-end.
-- 🌱 Estou estudando JavaScript para o back-end, MySQL, e serviços em nuvem (AWS).
+- 🖥️ Estagiário em Desenvolvimento de Sistemas na Magna Sistemas
+- 🌱 Atualmente, estou aprofundando meus conhecimentos em Java.
 
 #### Habilidades e Tecnologias:
 <div style="display: inline_block;">
