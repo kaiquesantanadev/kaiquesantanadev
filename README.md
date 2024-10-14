@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Kaique+Santana.;Tenho+19+anos.;Atualmente,+estou+graduando+em:;Desenvolvimento+de+Softwares+Multiplataforma.;Sou+Técnico+em+Redes+de+Computadores.;+Moro+em+São+Paulo,+Brasil.+:%29)](https://git.io/typing-svg)
 
 
-- 🖥️ Estagiário em Desenvolvimento de Sistemas na Magna Sistemas
+- 🖥️ Desenvolvedor de Sistemas Trainee na Magna Sistemas
 
 #### Atualmente, estou aprimorando meus conhecimentos em:
 
@@ -17,9 +17,9 @@
   <img align="center" alt="Imagem-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Imagem-Bootstrap" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Imagem-JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Imagem-ReactJS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Imagem-NodeJS" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Imagem-PostgreSQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Imagem-MongoDB" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg">
   <img align="center" alt="Imagem-AWS" height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/free-aws-1869025-1583149.png?f=avif&w=256">
   <img align="center" alt="Imagem-Linux" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
   <img align="center" alt="Imagem-BashScript" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg">
