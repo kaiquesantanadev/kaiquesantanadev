@@ -7,9 +7,6 @@
 
 #### Atualmente, estou aprimorando meus conhecimentos em:
 
-<div style="display: inline_block;">
-    <img align="center" alt="Imagem-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-</div>
 
 #### Também conheço as seguintes tecnologias:
 <div style="display: inline_block;">
