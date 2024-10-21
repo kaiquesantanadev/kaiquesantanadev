@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Kaique+Santana.;Tenho+19+anos.;Atualmente,+estou+graduando+em:;Desenvolvimento+de+Softwares+Multiplataforma.;Sou+Técnico+em+Redes+de+Computadores.;+Moro+em+São+Paulo,+Brasil.+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Kaique+Santana.;Tenho+19+anos,+moro+em+São+Paulo,+Brasil.+;Atualmente,+estou+graduando+em:;Desenvolvimento+de+Softwares+Multiplataforma.;Sou+Técnico+em+Redes+de+Computadores.:%29)](https://git.io/typing-svg)
 
 
 - 🖥️ Desenvolvedor de Sistemas Trainee na Magna Sistemas
