@@ -26,6 +26,8 @@
 
 - ☁️ [AWS Certified Cloud Practitioner CLF-02](https://www.credly.com/earner/earned/badge/c20fd54b-02de-4116-ad80-506c5b732ced)
 
+- 🛠️ [AWS Certified SysOps Administrator – Associate](https://www.credly.com/badges/90587156-c117-44bd-b997-d14660b5db20/linked_in?t=sx2xup)
+
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=kaiquesantanadev&show_icons=true&count_private=true&hide_border=true&title_color=1E90FF&icon_color=1E90FF&text_color=fff&bg_color=0d1117" alt="Kaique Santana github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiquesantanadev&layout=compact&hide_border=true&title_color=1E90FF&text_color=fff&bg_color=0d1117" />
