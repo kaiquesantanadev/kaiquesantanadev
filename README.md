@@ -24,7 +24,7 @@
 
 #### Minhas certificações:
 
-- ☁️ [AWS Certified Cloud Practitioner (CLF-02)](https://www.credly.com/earner/earned/badge/c20fd54b-02de-4116-ad80-506c5b732ced)
+- ☁️ [AWS Certified Cloud Practitioner (CLF-02)](https://www.credly.com/badges/c20fd54b-02de-4116-ad80-506c5b732ced/public_url)
 
 - 🛠️ [AWS Certified SysOps Administrator – Associate (SOA-C02)](https://www.credly.com/badges/90587156-c117-44bd-b997-d14660b5db20/linked_in?t=sx2xup)
 
